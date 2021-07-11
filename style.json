@@ -4580,7 +4580,19 @@
         ],
         "text-field": "{name}",
         "symbol-placement": "line",
-        "text-rotation-alignment": "map"
+        "text-rotation-alignment": "map",
+        "text-allow-overlap": {
+          "stops": [
+            [
+              0,
+              false
+            ],
+            [
+              18,
+              true
+            ]
+          ]
+        }
       },
       "paint": {
         "text-halo-color": "#f8f4f0",
@@ -4631,7 +4643,19 @@
         ],
         "text-field": "{name}",
         "symbol-placement": "line",
-        "text-rotation-alignment": "map"
+        "text-rotation-alignment": "map",
+        "text-allow-overlap": {
+          "stops": [
+            [
+              0,
+              false
+            ],
+            [
+              18,
+              true
+            ]
+          ]
+        }
       },
       "paint": {
         "text-halo-blur": 0,
@@ -4676,7 +4700,19 @@
         ],
         "text-field": "{name}",
         "symbol-placement": "line",
-        "text-rotation-alignment": "map"
+        "text-rotation-alignment": "map",
+        "text-allow-overlap": {
+          "stops": [
+            [
+              0,
+              false
+            ],
+            [
+              18,
+              true
+            ]
+          ]
+        }
       },
       "paint": {
         "text-halo-blur": 0,
